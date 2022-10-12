@@ -1,7 +1,7 @@
 [中文(码云)](https://gitee.com/mapleinvresx)<br>
 # Hi there 👋
 
- 💻 This is a small team developing software
+ 💻 This is a small team developing project
 <br>
 <br>
  Although there are not many people, we are paying attention to every line of code 😃
